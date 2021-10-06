@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\HelloWorld-NetCore31\HelloWorld-NetCore31\bin\Debug\netcoreapp3.1\HelloWorld-NetCore31.exe
+C:\Users\Gabriel\source\repos\HelloWorld-NetCore31\HelloWorld-NetCore31\bin\Debug\netcoreapp3.1\HelloWorld-NetCore31.deps.json
+C:\Users\Gabriel\source\repos\HelloWorld-NetCore31\HelloWorld-NetCore31\bin\Debug\netcoreapp3.1\HelloWorld-NetCore31.runtimeconfig.json
+C:\Users\Gabriel\source\repos\HelloWorld-NetCore31\HelloWorld-NetCore31\bin\Debug\netcoreapp3.1\HelloWorld-NetCore31.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\HelloWorld-NetCore31\HelloWorld-NetCore31\bin\Debug\netcoreapp3.1\HelloWorld-NetCore31.dll
+C:\Users\Gabriel\source\repos\HelloWorld-NetCore31\HelloWorld-NetCore31\bin\Debug\netcoreapp3.1\HelloWorld-NetCore31.pdb
+C:\Users\Gabriel\source\repos\HelloWorld-NetCore31\HelloWorld-NetCore31\obj\Debug\netcoreapp3.1\HelloWorld-NetCore31.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\HelloWorld-NetCore31\HelloWorld-NetCore31\obj\Debug\netcoreapp3.1\HelloWorld-NetCore31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\HelloWorld-NetCore31\HelloWorld-NetCore31\obj\Debug\netcoreapp3.1\HelloWorld-NetCore31.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\HelloWorld-NetCore31\HelloWorld-NetCore31\obj\Debug\netcoreapp3.1\HelloWorld-NetCore31.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\HelloWorld-NetCore31\HelloWorld-NetCore31\obj\Debug\netcoreapp3.1\HelloWorld-NetCore31.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\HelloWorld-NetCore31\HelloWorld-NetCore31\obj\Debug\netcoreapp3.1\HelloWorld-NetCore31.dll
+C:\Users\Gabriel\source\repos\HelloWorld-NetCore31\HelloWorld-NetCore31\obj\Debug\netcoreapp3.1\HelloWorld-NetCore31.pdb
+C:\Users\Gabriel\source\repos\HelloWorld-NetCore31\HelloWorld-NetCore31\obj\Debug\netcoreapp3.1\HelloWorld-NetCore31.genruntimeconfig.cache
